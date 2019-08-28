@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-- See the [IPFinder Cli]https://github.com/benemohamed/ip-finder-cli).
+- See the [IPFinder Cli](https://github.com/benemohamed/ip-finder-cli).
 
 
 ## Requirements

@@ -12,6 +12,21 @@ https://ipfinder.io/docs/#response-objects-details
 -- nmap --script ipfinder <target>
 --
 -- @output
+-- free
+-- |status                          | {!} ok  
+-- |status_message                  | {!} Query was successful  
+-- |ip                              | {!} 104.28.18.217  
+-- |type                            | {!} IPV4  
+-- |continent_code                  | {!} NA  
+-- |continent_name                  | {!} North America  
+-- |country_code                    | {!} US  
+-- |country_name                    | {!} United States  
+-- |country_native_name             | {!} United States  
+-- |region_name                     | {!} Virginia  
+-- |city                            | {!} Ashburn  
+--
+-- @output
+-- paid
 -- |status                          | {!} ok  
 -- |status_message                  | {!} Query was successful  
 -- |ip                              | {!} 54.149.7.155  
@@ -66,7 +81,7 @@ categories = {"discovery","external","safe"}
 hostrule = function(host)
 
   return true
-  
+
 end
 
 

@@ -43,4 +43,4 @@ Contact Us With Additional Questions About Our API, if you would like more infor
 ## License
 
 ----
-[![GitHub license](https://img.shields.io/github/license/ipfinder-io/ip-finder-python.svg)](https://github.com/ipfinder-io/ip-finder-python)
+[![GitHub license](https://img.shields.io/github/license/ipfinder-io/ip-finder-nmap.svg)](https://github.com/ipfinder-io/ip-finder-nmap)
